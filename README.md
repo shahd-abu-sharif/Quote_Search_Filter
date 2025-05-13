@@ -1,4 +1,4 @@
-# Quote_Search_Filter
+# Quote Search Filter
 A simple search filter using _JavaScript_.
 It's a _basic HTML_ page that fetches quote data from an API and displays quote texts. 
 If the user enters a string in the text field, the application should show **only quotes whose text contains the entered string**.
